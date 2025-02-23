@@ -1,0 +1,8 @@
+numpy==1.26.0
+pandas==1.5.0
+scikit-learn==1.1.1
+flask==2.1.1        # For building an API with Flask
+fastapi==0.79.0     # Alternative to Flask for API development
+uvicorn==0.18.3     # ASGI server to run FastAPI
+joblib==1.1.0       # For saving and loading AI models
+
